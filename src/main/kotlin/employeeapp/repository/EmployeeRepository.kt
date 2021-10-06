@@ -1,4 +1,4 @@
-package employeeapp
+package employeeapp.repository.model
 
 import employeeapp.repository.model.Employee
 import org.springframework.data.jpa.repository.JpaRepository
